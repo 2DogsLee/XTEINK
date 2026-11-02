@@ -26,6 +26,8 @@ jobs:
 
       - uses: actions/configure-pages@v5
         id: pages
+        with:
+          enablement: true
 
       - name: Generate OPDS catalog
         run: python3 scripts/generate_opds.py "${{ steps.pages.outputs.base_url }}"
