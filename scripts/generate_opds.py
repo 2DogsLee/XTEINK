@@ -78,7 +78,7 @@ def book_sort_key():
     files = [f for f in os.listdir(BOOKS) if f.endswith(".epub")]
     try:
         out = subprocess.run(
-            ["git", "log", "--name-only", "--format=@%at"],
+            ["git", "-c", "core.quotepath=false", "log", "--name-only", "--format=@%at"],
             cwd=ROOT, capture_output=True, text=True, timeout=30).stdout
         commit_ts = {}
         ts = None
