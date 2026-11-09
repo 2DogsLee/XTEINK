@@ -70,12 +70,35 @@ def sha1_of(path):
 def xml_escape(s):
     return html.escape(s or "", quote=True)
 
+def book_sort_key():
+    """返回 books/*.epub 列表，新书在前。
+    优先用 git 提交时间（CI 里 checkout 后 mtime 全相同，不可靠），
+    无 git 或文件未提交时回退到文件 mtime。"""
+    import subprocess
+    files = [f for f in os.listdir(BOOKS) if f.endswith(".epub")]
+    try:
+        out = subprocess.run(
+            ["git", "log", "--name-only", "--format=@%at"],
+            cwd=ROOT, capture_output=True, text=True, timeout=30).stdout
+        commit_ts = {}
+        ts = None
+        for line in out.splitlines():
+            if line.startswith("@"):
+                ts = int(line[1:])
+            elif line.startswith("books/") and line.endswith(".epub"):
+                commit_ts.setdefault(line, ts)  # git log 最新提交在前，setdefault 保留最近入库时间
+        if commit_ts:
+            files.sort(key=lambda f: (-commit_ts.get(f"books/{f}", 0), f))
+            return files
+    except Exception:
+        pass
+    files.sort(key=lambda f: -os.path.getmtime(os.path.join(BOOKS, f)))
+    return files
+
 def main():
     os.makedirs(COVERS, exist_ok=True)
     entries = []
-    for fn in sorted(os.listdir(BOOKS)):
-        if not fn.endswith(".epub"):
-            continue
+    for fn in book_sort_key():
         path = os.path.join(BOOKS, fn)
         try:
             title, author, date, uid, cover, cover_mime = epub_meta(path)
