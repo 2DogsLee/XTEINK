@@ -8,12 +8,14 @@
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <id>urn:uuid:f1c7199c-3b91-4a66-8769-b0dc46c5a08a</id>
+    <id>urn:uuid:97288250-234e-475f-94aa-5ea467d4765d</id>
     <title>Datawhale FDE案例100</title>
     <author><name>Datawhale</name></author>
     <updated>2026-11-10T00:00:00Z</updated>
     <dc:language>zh-CN</dc:language>
     <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/a4ebc98b4ce7.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/a4ebc98b4ce7.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/Datawhale-FDE%E6%A1%88%E4%BE%8B100.epub" type="application/epub+zip"/>
     <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
   </entry>
