@@ -8,6 +8,18 @@
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
+    <id>urn:uuid:85d72112-3c30-4826-ac8b-a8fc6af00e59</id>
+    <title>储能行业的繁荣，为什么没有带来普遍的高利润？</title>
+    <author><name>晚点财经</name></author>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/309862cdfece.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/309862cdfece.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E6%99%9A%E7%82%B9%E8%B4%A2%E7%BB%8F-%E5%82%A8%E8%83%BD%E8%A1%8C%E4%B8%9A%E7%9A%84%E7%B9%81%E8%8D%A3%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E5%B8%A6%E6%9D%A5%E6%99%AE%E9%81%8D%E7%9A%84%E9%AB%98%E5%88%A9%E6%B6%A6%EF%BC%9F.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
+  <entry>
     <id>urn:uuid:e3f5b8cb-fdeb-4276-a14d-421a7586fda0</id>
     <title>Datawhale FDE案例100</title>
     <author><name>Datawhale</name></author>
