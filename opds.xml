@@ -3,10 +3,56 @@
   <id>urn:xteink:catalog</id>
   <title>XTEINK 书库</title>
   <subtitle>微信公众号文章电子书</subtitle>
-  <updated>2026-11-09</updated>
+  <updated>2026-11-10</updated>
   <author><name>XTEINK</name><uri>https://2dogslee.github.io/XTEINK</uri></author>
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:uuid:e3f5b8cb-fdeb-4276-a14d-421a7586fda0</id>
+    <title>Datawhale FDE案例100</title>
+    <author><name>Datawhale</name></author>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/Datawhale-FDE%E6%A1%88%E4%BE%8B100.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:38812a79-c8a7-4ff6-ba5c-e04fc8a315d1</id>
+    <title>AI 投资的大问题：不是泡沫破灭，但三年硬件牛市结束了</title>
+    <author><name>晚点LatePost</name></author>
+    <updated>2026-11-09T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/b9aabba7a570.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/b9aabba7a570.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E6%99%9A%E7%82%B9LatePost-AI_%E6%8A%95%E8%B5%84%E7%9A%84%E5%A4%A7%E9%97%AE%E9%A2%98%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%B3%A1%E6%B2%AB%E7%A0%B4%E7%81%AD%EF%BC%8C%E4%BD%86%E4%B8%89%E5%B9%B4%E7%A1%AC%E4%BB%B6%E7%89%9B%E5%B8%82%E7%BB%93%E6%9D%9F%E4%BA%86.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:60eba4d7-c719-486c-b369-02c9cc0b98b8</id>
+    <title>华西医院的 AI 经验，如何成为更多医院的起点？</title>
+    <author><name>晚点LatePost</name></author>
+    <updated>2026-11-08T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/52d6524e073c.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/52d6524e073c.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E6%99%9A%E7%82%B9LatePost-%E5%8D%8E%E8%A5%BF%E5%8C%BB%E9%99%A2%E7%9A%84_AI_%E7%BB%8F%E9%AA%8C%EF%BC%8C%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E6%9B%B4%E5%A4%9A%E5%8C%BB%E9%99%A2%E7%9A%84%E8%B5%B7%E7%82%B9%EF%BC%9F.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:344bc5a3-8c7b-4004-84d1-f27fd74af6e7</id>
+    <title>靠六个钱包支撑的AI资金链，如果遭遇三条红线——锦成盛10月月度思考（一）</title>
+    <author><name>香帅的金融江湖</name></author>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/32811dfa1ec1.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/32811dfa1ec1.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E9%A6%99%E5%B8%85%E7%9A%84%E9%87%91%E8%9E%8D%E6%B1%9F%E6%B9%96-%E9%9D%A0%E5%85%AD%E4%B8%AA%E9%92%B1%E5%8C%85%E6%94%AF%E6%92%91%E7%9A%84AI%E8%B5%84%E9%87%91%E9%93%BE%EF%BC%8C%E5%A6%82%E6%9E%9C%E9%81%AD%E9%81%87%E4%B8%89%E6%9D%A1%E7%BA%A2%E7%BA%BF%E2%80%94%E2%80%94%E9%94%A6%E6%88%90%E7%9B%9B10%E6%9C%88%E6%9C%88%E5%BA%A6%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
   <entry>
     <id>urn:uuid:e4a65feb-903c-4397-8b36-aa2e2ff3d83e</id>
     <title>对话SpaceX投资人张璐：马斯克的5000亿美元增长目标，靠什么支撑？</title>
