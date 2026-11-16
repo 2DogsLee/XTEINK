@@ -3,10 +3,22 @@
   <id>urn:xteink:catalog</id>
   <title>XTEINK 书库</title>
   <subtitle>微信公众号文章电子书</subtitle>
-  <updated>2026-11-10</updated>
+  <updated>2026-11-16T03:35:45Z</updated>
   <author><name>XTEINK</name><uri>https://2dogslee.github.io/XTEINK</uri></author>
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:uuid:a5fc5915-3aa7-4653-bb52-5c8f72f23e05</id>
+    <title>坏消息很多，新的坏消息不多——锦成盛10月月度思考（二）</title>
+    <author><name>杭州锦成盛资产管理有限公司</name></author>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/6288ba01b50c.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/6288ba01b50c.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E6%9D%AD%E5%B7%9E%E9%94%A6%E6%88%90%E7%9B%9B%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-%E5%9D%8F%E6%B6%88%E6%81%AF%E5%BE%88%E5%A4%9A%EF%BC%8C%E6%96%B0%E7%9A%84%E5%9D%8F%E6%B6%88%E6%81%AF%E4%B8%8D%E5%A4%9A%E2%80%94%E2%80%94%E9%94%A6%E6%88%90%E7%9B%9B10%E6%9C%88%E6%9C%88%E5%BA%A6%E6%80%9D%E8%80%83%EF%BC%88%E4%BA%8C%EF%BC%89.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
   <entry>
     <id>urn:uuid:ba1b8b8b-ba0d-421a-a8e7-bb81ca44448b</id>
     <title>Datawhale FDE案例100</title>
