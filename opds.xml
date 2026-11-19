@@ -3,10 +3,22 @@
   <id>urn:xteink:catalog</id>
   <title>XTEINK 书库</title>
   <subtitle>微信公众号文章电子书</subtitle>
-  <updated>2026-11-17</updated>
+  <updated>2026-11-19T06:24:18Z</updated>
   <author><name>XTEINK</name><uri>https://2dogslee.github.io/XTEINK</uri></author>
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:uuid:6863874e-ed2f-4a00-9d35-a0d9de1058b2</id>
+    <title>马化腾在焦虑什么｜大公司</title>
+    <author><name>新皮层NewNewThing</name></author>
+    <updated>2026-11-18T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/b1f5be722529.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/b1f5be722529.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E6%96%B0%E7%9A%AE%E5%B1%82NewNewThing-%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9C%A8%E7%84%A6%E8%99%91%E4%BB%80%E4%B9%88%EF%BD%9C%E5%A4%A7%E5%85%AC%E5%8F%B8.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
   <entry>
     <id>urn:uuid:0b8e453c-7d18-4e09-9fa6-d6bd2f4dc052</id>
     <title>脆弱地基上的超级帝国：黄仁勋靠什么控制英伟达 33 年</title>
