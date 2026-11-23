@@ -3,10 +3,22 @@
   <id>urn:xteink:catalog</id>
   <title>XTEINK 书库</title>
   <subtitle>微信公众号文章电子书</subtitle>
-  <updated>2026-11-19T06:24:18Z</updated>
+  <updated>2026-11-23</updated>
   <author><name>XTEINK</name><uri>https://2dogslee.github.io/XTEINK</uri></author>
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:uuid:edbb90dd-72cd-47f7-924f-85d755abba43</id>
+    <title>为了训练机器人，人类开始表演劳动</title>
+    <author><name>晚点LatePost</name></author>
+    <updated>2026-11-23T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/c9775e5522a9.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/c9775e5522a9.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E6%99%9A%E7%82%B9LatePost-%E4%B8%BA%E4%BA%86%E8%AE%AD%E7%BB%83%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E4%BA%BA%E7%B1%BB%E5%BC%80%E5%A7%8B%E8%A1%A8%E6%BC%94%E5%8A%B3%E5%8A%A8.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
   <entry>
     <id>urn:uuid:6863874e-ed2f-4a00-9d35-a0d9de1058b2</id>
     <title>马化腾在焦虑什么｜大公司</title>
