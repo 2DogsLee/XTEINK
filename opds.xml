@@ -8,6 +8,18 @@
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
+    <id>urn:uuid:5d5015c0-d63e-410a-9b0e-7ca1d2c075cf</id>
+    <title>深度复盘：为什么“人人都是Builder”在真实大厂里跑不通？｜甲子发现</title>
+    <author><name>甲子发现</name></author>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/2a664bd6f098.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/2a664bd6f098.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E7%94%B2%E5%AD%90%E5%8F%91%E7%8E%B0-%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AFBuilder%E2%80%9D%E5%9C%A8%E7%9C%9F%E5%AE%9E%E5%A4%A7%E5%8E%82%E9%87%8C%E8%B7%91%E4%B8%8D%E9%80%9A%EF%BC%9F%EF%BD%9C%E7%94%B2%E5%AD%90%E5%8F%91%E7%8E%B0.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
+  <entry>
     <id>urn:uuid:fb9482b9-3c91-4863-a11c-36b0a68c74ec</id>
     <title>认养一头牛的十二年，让重投入长出新生意</title>
     <author><name>晚点LatePost</name></author>
