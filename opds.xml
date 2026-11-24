@@ -3,10 +3,22 @@
   <id>urn:xteink:catalog</id>
   <title>XTEINK 书库</title>
   <subtitle>微信公众号文章电子书</subtitle>
-  <updated>2026-11-23</updated>
+  <updated>2026-11-24</updated>
   <author><name>XTEINK</name><uri>https://2dogslee.github.io/XTEINK</uri></author>
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:uuid:fb9482b9-3c91-4863-a11c-36b0a68c74ec</id>
+    <title>认养一头牛的十二年，让重投入长出新生意</title>
+    <author><name>晚点LatePost</name></author>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/c6a0fe8fc1c5.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/c6a0fe8fc1c5.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E6%99%9A%E7%82%B9LatePost-%E8%AE%A4%E5%85%BB%E4%B8%80%E5%A4%B4%E7%89%9B%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B9%B4%EF%BC%8C%E8%AE%A9%E9%87%8D%E6%8A%95%E5%85%A5%E9%95%BF%E5%87%BA%E6%96%B0%E7%94%9F%E6%84%8F.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
   <entry>
     <id>urn:uuid:edbb90dd-72cd-47f7-924f-85d755abba43</id>
     <title>为了训练机器人，人类开始表演劳动</title>
