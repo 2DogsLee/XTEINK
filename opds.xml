@@ -3,10 +3,22 @@
   <id>urn:xteink:catalog</id>
   <title>XTEINK 书库</title>
   <subtitle>微信公众号文章电子书</subtitle>
-  <updated>2026-11-24</updated>
+  <updated>2026-11-25</updated>
   <author><name>XTEINK</name><uri>https://2dogslee.github.io/XTEINK</uri></author>
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:uuid:049a09fd-40d9-48e8-ab89-2debeffe4119</id>
+    <title>黄仁勋的权力游戏：30 年主导产业，3 年走进华盛顿</title>
+    <author><name>晚点LatePost</name></author>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/44988605b950.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/44988605b950.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E6%99%9A%E7%82%B9LatePost-%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E6%9D%83%E5%8A%9B%E6%B8%B8%E6%88%8F%EF%BC%9A30_%E5%B9%B4%E4%B8%BB%E5%AF%BC%E4%BA%A7%E4%B8%9A%EF%BC%8C3_%E5%B9%B4%E8%B5%B0%E8%BF%9B%E5%8D%8E%E7%9B%9B%E9%A1%BF.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
   <entry>
     <id>urn:uuid:5d5015c0-d63e-410a-9b0e-7ca1d2c075cf</id>
     <title>深度复盘：为什么“人人都是Builder”在真实大厂里跑不通？｜甲子发现</title>
