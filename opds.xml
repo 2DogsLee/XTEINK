@@ -3,10 +3,22 @@
   <id>urn:xteink:catalog</id>
   <title>XTEINK 书库</title>
   <subtitle>微信公众号文章电子书</subtitle>
-  <updated>2026-11-25</updated>
+  <updated>2026-11-26T02:33:28Z</updated>
   <author><name>XTEINK</name><uri>https://2dogslee.github.io/XTEINK</uri></author>
   <link rel="self" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://2dogslee.github.io/XTEINK/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <id>urn:uuid:08948a4c-4503-4835-96ba-0053aca4dffe</id>
+    <title>拆解山姆MM：真标准和硬功夫</title>
+    <author><name>远川研究所</name></author>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>XTEINK</dc:publisher>
+    <link rel="http://opds-spec.org/image" href="https://2dogslee.github.io/XTEINK/covers/27d8caae0f22.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://2dogslee.github.io/XTEINK/covers/27d8caae0f22.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://2dogslee.github.io/XTEINK/books/%E8%BF%9C%E5%B7%9D%E7%A0%94%E7%A9%B6%E6%89%80-%E6%8B%86%E8%A7%A3%E5%B1%B1%E5%A7%86MM%EF%BC%9A%E7%9C%9F%E6%A0%87%E5%87%86%E5%92%8C%E7%A1%AC%E5%8A%9F%E5%A4%AB.epub" type="application/epub+zip"/>
+    <link rel="alternate" href="https://2dogslee.github.io/XTEINK/index.html" type="text/html"/>
+  </entry>
   <entry>
     <id>urn:uuid:049a09fd-40d9-48e8-ab89-2debeffe4119</id>
     <title>黄仁勋的权力游戏：30 年主导产业，3 年走进华盛顿</title>
